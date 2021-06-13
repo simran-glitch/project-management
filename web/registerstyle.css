@@ -1,0 +1,95 @@
+   form {
+            position: absolute;
+            width: 40%;
+            border-style: solid;
+            border-color: white;
+            border-width: 2px;
+            left: 30%;
+            top:15%;
+        }
+        div#Trisha{
+            background-color: teal;
+            padding: 3%;
+            
+        }
+        input{
+            width: 180px;
+            padding: 3px;
+          
+        }
+        #trisha1{
+            padding-left: 10px;
+            margin-left: 28px;
+           border-radius: 4px;
+           border: 2px solid black;
+        }
+         #trisha2{
+            padding-left: 10px;
+            margin-left: 50px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+        #trisha3{
+            padding-left: 10px;
+            margin-left: 61px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+         #trisha4{
+            padding-left: 10px;
+            margin-left: 10px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+         #trisha5{
+            padding-left: 10px;
+            margin-left: 40px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+         #trisha6{
+            padding-left: 10px;
+            margin-left: 58px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+         #trisha7{
+            padding-left: 10px;
+            margin-left: 98px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+        #trisha8{
+            margin-left: -50px;
+        }
+        #trisha9{
+            background-color: red;
+            text-align: center;
+            color: black;
+            border-radius: 7px;
+            width: 80px;
+            margin-left: 50px;
+            font-weight: bolder;
+        }
+        #trisha9:hover{
+            background-color: greenyellow;
+        }
+        h5{
+            margin-left: -40px;
+        }
+        h4{
+            margin-left: 200px;
+            color: yellow;
+        }
+        p{
+           margin-top:-5px;
+           color: yellow;
+           text-align: center;
+        }
+        body {
+            background-color: silver;
+        }
+
+
+
+

@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("https://www.popwebdesign.net/images/marketing/graphics/header-web-copywriting.jpg") no-repeat;
+    background-size: cover;
+}   
+form {
+            position: absolute;
+            width: 40%;
+            border-style: solid;
+            border-color: white;
+            border-width: 2px;
+            left: 15%;
+            top:80px;
+            margin-left: 15%;
+        }
+        div#subhankar{
+            background-color: rgb(0,0,0);
+            padding: 3%;
+            
+            
+        }
+        input{
+            width: 180px;
+            padding: 3px;
+          
+        }
+        #trisha1{
+            padding-left: 10px;
+            margin-left: 45px;
+           border-radius: 4px;
+           border: 2px solid black;
+        }
+         #trisha2{
+            padding-left: 10px;
+            margin-left: 50px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+        #trisha3{
+            padding-left: 10px;
+            margin-left: 61px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+         #trisha4{
+            padding-left: 10px;
+            margin-left: 10px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+         #trisha5{
+            padding-left: 10px;
+            margin-left: 40px;
+            border-radius: 4px;
+            border: 2px solid black;
+        }
+        #trisha8{
+            margin-left: -50px;
+        }
+        #trisha9{
+            background-color: #0184ff;
+            text-align: center;
+            color: black;
+            border-radius: 7px;
+            width: 80px;
+            margin-left: 50px;
+            font-weight: bolder;
+        }
+        #trisha9:hover{
+            background-color: yellow;
+        }
+        h5{
+            margin-left: -40px;
+        }
+        h3{
+            color:white;
+        }
+        p{
+           margin-top:-5px;
+           color: orange;
+           text-align: center;
+           font-weight: bolder;
+        }
+        body {
+            background-color: silver;
+        }
+        h4{
+            text-align: right;
+            padding-right: 10%;
+                
+        }
+

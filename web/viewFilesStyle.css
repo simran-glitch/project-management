@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+p{
+    font-size: 70px;
+    text-align: center;
+    color:orange;
+    font-weight: bolder;
+}
+h3#NUM1{
+    color:greenyellow;
+    margin-left:25%;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -5%;
+}
+h4#NUM3{
+    color:white;
+    font-size:25px;
+    font-weight: bold;
+    margin-left: 20%;
+}
+h4#NUM2{
+    color:white;
+    font-size:25px;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: -2%;
+}
+h4#NUM4{
+    color:white;
+    font-size:25px;
+    font-weight: bold;
+    margin-left: 20%;
+   margin-bottom: -2%;
+}
+
+
+

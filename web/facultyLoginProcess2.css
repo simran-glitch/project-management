@@ -1,0 +1,74 @@
+body{
+    background: url(https://projects.esc20.net/upload/page/0174/widgets/image/002563/Research-web.jpg);
+    background-position: cover;
+}
+.box{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%,-30%);
+    width: 350px;
+    height: 300px;
+    background: whitesmoke;
+    box-shadow: 0 4px 8px 16px rgba(0, 0, 0, 0.5);
+        
+}
+
+
+.login-wrap{
+    width: 80%;
+    height: 60%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: brown;
+    border-radius: 5px 5px 5px 5px;
+}
+div{
+    margin-top: 10%;
+}
+
+#tanya1{
+    font-size: 17px;
+    width: 220px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left:5%;
+   color: white;
+    background-color:black ;
+}
+#tanya2{
+    font-size: 17px;
+    width: 220px;
+    border-radius: 10px 10px 10px 10px;
+     margin-left:5%;
+     color: white;
+     background-color:black;
+}
+#tanya3{
+    font-size: 17px;
+    width: 220px;
+    
+    border-radius: 10px 10px 10px 10px;
+    margin-left:5%;
+    color: white;
+    background-color:black;
+}
+p{
+    font-size: 50px;
+    font-family: cursive;
+ text-align: center;
+ background-color: rgba(255,255,255,0.2) ;
+}
+h3{
+    font-family: cursive;
+}
+h4{
+    color: white;
+    margin-left: 5%;
+}
+
+#tanya5{
+    margin-top: 5%;
+     text-align: right;
+}
+
