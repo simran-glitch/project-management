@@ -1,2 +1,2 @@
 # project-management
-project approval system which will help institution and students to work more efficently
+project approval system is a web application developed using java (jsp), backend -Oracle,bootstraop ,html ,css . This application is created for Educational institutions and students specially.
