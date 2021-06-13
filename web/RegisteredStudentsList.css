@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+}
+table,tr,td,th{
+    padding:10px;
+    text-align: center;
+    border:solid;
+    border-collapse: collapse;
+     border-color: midnightblue;
+    
+}
+#trisha1{
+    font-weight: bolder;
+    margin-top:-2%;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px BLUE;
+    
+    }

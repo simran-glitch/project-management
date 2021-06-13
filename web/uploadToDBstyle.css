@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+form{
+    position: absolute;
+    width: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 20px;
+    left: 25%;
+    top:28%;
+    padding-top:1%;
+    padding-bottom: 2%;
+    padding-left:3%;
+    background-color: gray;
+}
+#trisha1{
+    border: 1px;
+    border-color: black;
+    height: 60px;
+    border-radius: 6px;
+    margin-top: 5px;
+}
+#trisha2{
+    width: 80px;
+    border-radius: 4px;
+    margin-left:17%;
+    margin-top: 12px;
+    background-color:skyblue;
+}
+#trisha2:hover{
+    background-color: yellow;
+}
+#trisha3{
+    border:1px;
+    border-radius: 2px;
+    padding-left:8px;
+    height: 20px;
+    
+}
+#trisha4{
+    border: 1px;
+    border-color: black;
+    border-radius:4px;
+}
+
+
+h2{
+    color: orange;
+    text-align: center;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+}
+
+

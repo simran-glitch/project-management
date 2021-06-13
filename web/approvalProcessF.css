@@ -1,0 +1,57 @@
+#tanya3{
+    
+    background-color:slategray;
+    height: 60px;
+    border-radius: 4px 4px 4px 4px;
+    margin-top: 5px;
+}
+
+#tanya1{
+    
+   
+    
+    border-radius:4px 4px 4px 4px;
+    margin-top: 5px;
+    height: 20px;
+    background-color:slategray;
+}
+#tanya2{
+    
+    border-radius: 4px 4px 4px 4px;
+    height: 20px;
+    margin-top: 12px;
+    background-color:slategray;
+}
+#tanya4{
+    width: 80px;
+    border-radius: 4px 4px 4px 4px;
+    margin-left:5%;
+    margin-top: 10px;
+    background-color:slategray;
+}
+.box{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%,-30%);
+    width: 400px;
+    height: 350px;
+    border-radius: 5px 5px 5px 5px;
+    background-color:burlywood;
+    box-shadow: 0  4px 8px 16px rgba(0, 0, 0, 0.5);
+    
+        
+}
+p{
+   font-size: 40px;
+   background-color: brown;
+   text-align: center;
+}
+
+#tab1{
+  width: 100px;
+  height: 40px;
+    border-radius: 6px 6px 6px 6px;
+    background-color:burlywood;  
+    font-size:20px;
+}
